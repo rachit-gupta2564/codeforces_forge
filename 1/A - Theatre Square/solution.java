@@ -1,0 +1,1 @@
+import java.util.*;public class SquareFills {    public static void main(String[] args) {        Scanner sc = new Scanner(System.in);        long n = sc.nextLong();        long m = sc.nextLong();        long a = sc.nextLong();        System.out.println((long)(Math.ceil(n / (double)a) * Math.ceil(m / (double)a)));    }}
