@@ -6,15 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (2)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [implementation](#implementation) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
 
 ---
@@ -26,16 +28,29 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/rachit-gupta2564/codeforces_forge/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Java 21](https://github.com/rachit-gupta2564/codeforces_forge/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.java) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [Java 21](https://github.com/rachit-gupta2564/codeforces_forge/blob/HEAD/343/B%20-%20Alternating%20Current/solution.java) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/rachit-gupta2564/codeforces_forge/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [Java 21](https://github.com/rachit-gupta2564/codeforces_forge/blob/HEAD/343/B%20-%20Alternating%20Current/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [Java 21](https://github.com/rachit-gupta2564/codeforces_forge/blob/HEAD/343/B%20-%20Alternating%20Current/solution.java) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [Java 21](https://github.com/rachit-gupta2564/codeforces_forge/blob/HEAD/706/B%20-%20Interesting%20drink/solution.java) |
 
 ### math
